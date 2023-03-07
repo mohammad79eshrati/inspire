@@ -23,6 +23,5 @@
         "roave/security-advisories": "dev-latest"
     },
     "extra": {
-        "class" : "src/Providers/InspireProvider.php"
     }
 }
