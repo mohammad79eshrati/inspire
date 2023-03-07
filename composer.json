@@ -24,5 +24,12 @@
         "roave/security-advisories": "dev-latest"
     },
     "extra": {
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
     }
 }
