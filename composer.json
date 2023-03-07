@@ -1,0 +1,20 @@
+{
+    "name": "mohammad79eshrati/inspire",
+    "description": "This is a test package, It's for learning.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohammad79eshrati\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Eshrati",
+            "email": "mohammad79eshrati@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
