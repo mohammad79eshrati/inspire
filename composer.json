@@ -1,7 +1,7 @@
 {
     "name": "mohammad79eshrati/inspire",
     "description": "This is a test package, It's for learning.",
-    "type": "composer-plugin",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
